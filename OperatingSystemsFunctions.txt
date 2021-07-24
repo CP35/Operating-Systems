@@ -4,3 +4,6 @@ It was developed by Apple inc.
 Microsoft Windows is known as Windows.
 Windows operating system was first introduced in 1985.
 The first versions of Windows was called Windows 1.
+Linux was designed to be similar to UNIX.
+Linux has evolved to run on phones to supercomputers.
+Every Linux based Os involves the Linux kernel.
